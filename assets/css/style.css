@@ -112,6 +112,7 @@ p {
 
 /* choose common name for these*/
 .search-engine-optimization ,
+
 .online-reputation-management,
 .social-media-marketing {
     margin-bottom: 20px;
@@ -122,16 +123,11 @@ p {
     color: #ffffff;
 }
 
+
 /* choose common name for these*/
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
+.search-engine-optimization img,
+.online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
