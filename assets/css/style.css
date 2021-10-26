@@ -86,24 +86,18 @@ p {
     background-color: #2589bd;
 }
 /* choose common name for these*/
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* choose common name for these*/
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 /* choose common name for these*/
-.benefit-lead img,
-.benefit-brand img ,
-.benefit-cost img  {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -111,8 +105,7 @@ p {
 
 
 /* choose common name for these*/
-.search-engine-optimization ,
-
+.search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
     margin-bottom: 20px;
